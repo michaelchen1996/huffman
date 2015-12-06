@@ -8,7 +8,7 @@
 			- heap.h
 			- huffnode.h
 			- hufftree.h
-			- main.h
+			- main.cpp
 		- huffman.xcodeproj
 - test
 	- httpd.conf
